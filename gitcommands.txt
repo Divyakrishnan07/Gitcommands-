@@ -3,7 +3,7 @@
 
 
 To Add Local files to the Git repository
-//To initaite the git operation
+//To initaite the git operation yesssssssssssss
 1)git init
 //Connect to the github folder
 2)git remote add origin https://github.com/Machavalavan/Automobile.git
