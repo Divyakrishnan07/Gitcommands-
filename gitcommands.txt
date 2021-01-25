@@ -1,0 +1,28 @@
+       Git commands
+
+
+
+To Add Local files to the Git repository
+//To initaite the git operation
+1)git init
+//Connect to the github folder
+2)git remote add origin https://github.com/Machavalavan/Automobile.git
+//To display the available folder in the repository
+3)git remote -v
+//To start initiate the adding changes to the existing folder
+4)git add .
+//To Start initiating to push the code
+5)git commit -m "First Push"
+//Cofirmation to push the code
+6)git push origin master
+------------------------------------****************----------------------------------------------------
+To fetch the files from github to Local
+1)git init
+2)git remote add origin https://github.com/Machavalavan/Automobile.git
+//To initiate to fetch the files from github to Local file
+3)git fetch origin master
+//To import the file to local directory
+4)git checkout master 
+5)git pull origin master
+git fetch upstream
+git merge upstream/master
